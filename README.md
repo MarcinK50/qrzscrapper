@@ -1,5 +1,4 @@
 # qrzscrapper
-qrz.com scrapper with REST API
 This app scraps [qrz.com](https://qrz.com) page
 # How to configure
 Due to restriction of max 100 requests on qrz.com, you will need to create some multiaccounts. Every multiaccount = 100 views.
